@@ -54,7 +54,7 @@ Austria, Riesneralm
 Austria, Schladming
 Austria, Schöckl
 Austria, Semmering
-Austria, Stuhleck (Spital am Semmering)
+Austria, Stuhleck 
 Austria, Tauplitz
 Austria, Turracher Höhe
 Austria, Weinebene
@@ -110,3 +110,551 @@ Bosnia/Herzegovina, Igrista
 Bosnia/Herzegovina, Jahorina ski resort
 Bosnia/Herzegovina, Kupres
 Bosnia/Herzegovina, Vlasic
+Bulgaria, Bansko
+Bulgaria, Beklemeto
+Bulgaria, Berkovitsa
+Bulgaria, Borovets
+Bulgaria, Chepelare
+Bulgaria, Chumerna
+Bulgaria, Dobrinishte
+Bulgaria, Govedartsi
+Bulgaria, Karandila
+Bulgaria, Kom Peak
+Bulgaria, Malyovitsa
+Bulgaria, Osogovo
+Bulgaria, Pamporovo
+Bulgaria, Panichishte
+Bulgaria, Parshevitsa
+Bulgaria, Semkovo
+Bulgaria, Treshtenik
+Bulgaria, Tsigov Chark
+Bulgaria, Uzana
+Bulgaria, Vitosha
+Croatia, Bjelolasica
+Croatia, Medvednica
+Croatia, Platak
+Cyprus, Mount Olympus
+Czech Republic, Churáňov, Šumava
+Czech Republic, Harrachov
+Czech Republic, Pec pod Sněžkou
+Czech Republic, Špindlerův Mlýn
+Denmark, Gjern
+Estonia, Kiviõli
+Estonia, Otepää
+Finland, Hervanta
+Finland, Himos
+Finland, Iso-Syöte
+Finland, Juupavaara
+Finland, Kalpalinna
+Finland, Koli
+Finland, Korkeakangas
+Finland, Laajavuori
+Finland, Levi
+Finland, Luosto
+Finland, Mustavaara
+Finland, Olos
+Finland, Paljakka
+Finland, Pallas
+Finland, Purnu
+Finland, Pyhätunturi
+Finland, Ritavalkea
+Finland, Ruka
+Finland, Ruosniemi
+Finland, Suomu
+Finland, Syötekeskus
+Finland, Tahko
+Finland, Taivalvaara
+Finland, Talma Ski
+Finland, Ukkohalla
+Finland, Uuperi
+Finland, Vihti
+Finland, Vuokatti
+Finland, Vuorenmaa
+Finland, Ylläs
+France, Chabanon
+France, Le Fanget
+France, Le Grand Puy
+France, Pra-Loup
+France, Saint-Jean Montclar
+France, Sainte-Anne la Condamine
+France, Abriès-Ristolas
+France, Ancelle
+France, Arvieux
+France, Ceillac
+France, Château-Ville-Vieille
+France, Crévoux
+France, Dévoluy
+France, La Grave
+France, Laye
+France, Montgenèvre
+France, Orcières
+France, Les Orres
+France, Puy Saint-Vincent
+France, Réallon
+France, Risoul
+France, Saint-Léger-les-Mélèzes
+France, Saint-Véran
+France, Serre-Chevalier
+France, Vars
+France, Auron Saint-Étienne-de-Tinée
+France, Beuil-les-Launes
+France, Isola 2000
+France, Valdeblore
+France, L'Alpe d'Huez
+France, Autrans
+France, Bourg-d'Oisans
+France, Chamrousse
+France, Chichilianne
+France, Col de Porte
+France, Col d'Ornon
+France, Les Arcs
+France, Bessans
+France, Courchevel
+France, Granier
+France, Termignon
+France, Valmorel
+France, Bernex
+France, La Clusaz
+France, Vallorcine
+France, Mont Serein
+France, Paradiski
+France, Espace Killy 
+France, Ghisoni
+France, Charquemont
+France, Prémanon
+France, Septmoncel
+France, Chambon-sur-Lac
+France, Nasbinals
+France, Station du Haut-Folin
+France, Les Angles
+France, Font-Romeu
+France, Somport
+France, Ballon d'Alsace:
+France, Lac Blanc
+France, Wangenbourg-Engenthal
+Georgia, Bakuriani
+Georgia, Goderdzi Pass
+Georgia, Gudauri
+Georgia, Mestia
+Germany, Garmisch-Partenkirchen
+Germany, Oberammergau
+Germany, Oberstdorf
+Germany, Zwiesel
+Germany, Achertal
+Germany, Baiersbronn
+Germany, Belchenland
+Germany, Breitnau
+Germany, Feldberg
+Germany, Sankt Georgen
+Germany, Sasbachwalden
+Germany, Schonach
+Germany, Schönwald
+Germany, Seebach
+Germany, Todtmoos
+Germany, Todtnau
+Germany, Triberg
+Germany, Clausthal-Zellerfeld
+Germany, Hahnenklee
+Germany, Hohegeiß
+Germany, Osterode-Lerbach
+Germany, Schulenberg
+Germany, Sudelfeld
+Germany, Winterberg
+Germany, Willingen
+Germany, Aalen
+Germany, Albstadt-Tailfingen
+Germany, Genkingen
+Germany, Römerstein
+Germany, Westerheim
+Germany, Wiesensteig
+Greece, 3-5 Pigadia
+Greece, Elatochori
+Greece, Falakro
+Greece, Gerodovrahos
+Greece, Kalavrita
+Greece, Karpenisi
+Greece, Lailias
+Greece, Mainalo
+Greece, Metsovo
+Greece, Olympus
+Greece, Pagaio
+Greece, Parnassos
+Greece, Pertouli
+Greece, Pilio
+Greece, Pisoderi
+Greece, Seli
+Greece, Vasilitsa
+Greece, Vitsi
+Greece, Voras - Kaimakchalan
+Hungary, Bánkút
+Hungary, Epleny
+Hungary, Kekes
+Hungary, Matra Szent Istvan
+Iceland, Bláfjöll
+Iceland, Böggvistaðarfjall
+Iceland, Dalirnir Tveir
+Iceland, Hlíðarfjall
+Iceland, Skálafell
+Iceland, Skarðsdalur
+Iceland, Tindastóll
+Italy, Alpe di Mera
+Italy, Aquila di Giaveno
+Italy, Argentera
+Italy, Balme
+Italy, Bardonecchia
+Italy, Bielmonte
+Italy, Col de Joux
+Italy, Courmayeur
+Italy, Gressoney-La-Trinité
+Italy, Gressoney-Saint-Jean
+Italy, La Magdeleine
+Italy, Montecampione
+Italy, Pian delle Betulle
+Italy, Piani di Artavaggio
+Italy, Piani di Bobbio
+Italy, Piazzatorre
+Italy, Brocon
+Italy, Catinaccio
+Italy, Folgaria
+Italy, Folgarida
+Italy, Alta Pusteria
+Italy, Bressanone
+Italy, Brunico
+Italy, Passo Fedaia
+Italy, Passo San Pellegrino
+Italy, Pian del Cansiglio
+Italy, Recoaro Mille
+Italy, Forni di Sopra - Sauris
+Italy, Passo Pramollo
+Italy, Cerreto Laghi
+Italy, CimonAbetone
+Italy, Amiata
+Italy, Cutigliano-Doganaccia
+Italy, Frontone - Monte Catria
+Italy, Monte Livata
+Italy, Terminillo
+Italy, Rivisondoli
+Italy, Roccaraso
+Italy, Campitello Matese
+Italy, Laceno
+Italy, Sellata
+Italy, Gambarie
+Italy, Piano Battaglia
+Italy, Bruncu Spina
+Kosovo, Brezovica ski resort
+Kosovo, Rugova
+Latvia, Baiļi
+Latvia, Gaiziņš
+Latvia, Jēkaba grava
+Latvia, Kaķīškalns
+Latvia, Ķauķu kalns
+Latvia, Lemberga hūte
+Latvia, Mežezers
+Latvia, Mežkalni
+Latvia, Milzkalns
+Latvia, Ozolkalns
+Latvia, Rāmkalni
+Latvia, Reiņa trase
+Latvia, Riekstukalns
+Latvia, Sauleskalns
+Latvia, Siguldas trase
+Latvia, Žagarkalns
+Latvia, Zviedru cepure
+Liechtenstein, Malbun
+Lithuania, Anykščiai
+Lithuania, Druskininkai
+Lithuania, Ignalina
+Lithuania, Liepkalnis Winter Sports Centre
+Macedonia, Kožuf
+Macedonia, Kruševo
+Macedonia, Mavrovo
+Macedonia, Nizepole
+Macedonia, Pelister
+Macedonia, Ponikva
+Macedonia, Popova Šapka
+Montenegro, Durmitor
+Montenegro, Kolašin
+Montenegro, Vucje
+Norway, Bjorli
+Norway, Filefjell
+Norway, Geilo
+Norway, Hafjell
+Norway, Hemsedal
+Norway, Hovden
+Norway, Kongsberg
+Norway, Kvitfjell
+Norway, Målselv
+Norway, Meråker
+Norway, Narvik
+Norway, Norefjell
+Norway, Myrkdalen
+Norway, Oppdal
+Norway, Sauda 
+Norway, Sirdal
+Norway, Sjusjøen
+Norway, Stryn Sommerski
+Norway, Tromsø
+Norway, Trondheim
+Norway, Trondheim
+Norway, Trysil
+Norway, Tryvann
+Poland, Białka Tatrzańska
+Poland, Bukowina Tatrzańska
+Poland, Karpacz
+Poland, Krynica Zdrój
+Poland, Rabka-Zdrój
+Poland, Czarna Gora
+Poland, Szczyrk
+Poland, Szklarska Poręba
+Poland, Ustroń
+Poland, Wisła
+Poland, Zakopane
+Poland, Zawoja
+Portugal, Serra da Estrela
+Romania, Muntele Mic
+Romania, Semenic
+Romania, Campulung Moldovenesc
+Romania, Carlibaba
+Romania, Gura Humorului
+Romania, Pojorata
+Romania, Vatra Dornei
+Romania, Moneasa
+Romania, Băile Borşa
+Romania, Cavnic
+Romania, Firiza
+Romania, Izvoare
+Romania, Mogoşa
+Romania, Ocna Şugatag
+Romania, Durău
+Romania, Piatra-Neamt
+Romania, Slănic Moldova
+Romania, Soveja
+Romania, Buşteni
+Romania, Cheia
+Romania, Băile Olăneşti
+Romania, Băile Govora
+Romania, Călimăneşti
+Romania, Bran
+Romania, Geoagiu (Geoagiu Băi)
+Romania, Harghita Băi
+Romania, Izvorul Mureşului
+Romania, Păltiniş
+Russia, Cheget
+Russia, Dombay
+Russia, Elbrus
+Russia, Kavgolovo-Toksovo
+Russia, Snezhny
+Russia, Okhta Park
+Russia, Sorochany
+Russia, Kirovsk
+Russia, Panovo
+Russia, Abzakovo
+Russia, Bannoye Lake
+Russia, Adzhigardak
+Russia, Kemerovo Oblast - Sheregesh
+Russia, Sakhalin Oblast - Gornyj Vozdukh
+Russia, Kamchatka Oblast - Gora Moroznaya
+Serbia, Besna Kobila 
+Serbia, Brezovica 
+Serbia, Crni Vrh
+Serbia, Divčibare 
+Serbia, Goč 
+Serbia, Golija 
+Serbia, Kopaonik 
+Serbia, Iver 
+Serbia, Stara Planina 
+Serbia, Suva Planina
+Serbia, Tornik 
+Serbia, Zlatar 
+Slovakia, Parksnow Štrbské Pleso
+Slovakia, Starý Smokovec
+Slovakia, Polomka - Bučník
+Slovakia, Ski Centrum Čertovica
+Slovakia, Ski centrum Zapač
+Slovakia, Plejsy
+Slovakia, Veľká Rača
+Slovakia, Vrátna Free Time Zone
+Slovakia, Jasná
+Slovenia, Javornik
+Slovenia, Kanin-Sella Nevea
+Slovenia, Kobla
+Slovenia, Kope-Ribniško Pohorje
+Slovenia, Kranjska Gora
+Slovenia, Krvavec
+Slovenia, Mariborsko Pohorje
+Slovenia, Rogla
+Spain, Aramon Panticosa
+Spain, Astún
+Spain, Port Ainé
+Spain, Vall de Núria
+Spain, Vallter 2000
+Spain, Alto Campoo
+Spain, Fuentes de Invierno
+Spain, La Covatilla, in Sierra de Béjar
+Spain, Navacerrada
+Spain, Navafría ski resort
+Spain, Aramon Javalambre
+Spain, Aramon Valdelinares
+Spain, Sierra Nevada Ski Station in Granada
+Sweden, Abisko
+Sweden, Åre - Åre Ski Area
+Sweden, Bjursås
+Sweden, Björkliden
+Sweden, Borgafjäll
+Sweden, Branäs
+Sweden, Bydalen
+Sweden, Dundret
+Sweden, Duved
+Sweden, Edsåsdalen
+Sweden, Fjätervålen
+Sweden, Flottsbro in Stockholm
+Sweden, Funäsdalen
+Sweden, Hassela
+Sweden, Hemavan
+Sweden, Hovfjället
+Sweden, Hundfjället
+Sweden, Högfjället
+Sweden, Idre
+Sweden, Isaberg in Hestra
+Sweden, Kittelfjäll
+Sweden, Kläppen
+Sweden, Kungsberget near Sandviken
+Sweden, Lindvallen
+Sweden, Lofsdalen
+Sweden, Nalovardo
+Sweden, Näsfjället
+Sweden, Riksgränsen
+Sweden, Romme [sv] near Borlänge
+Sweden, Sollefteå
+Sweden, Storlien
+Sweden, Storstenshöjden
+Sweden, Stöten
+Sweden, Sälen
+Sweden, Tandådalen
+Sweden, Tärnaby
+Sweden, Vallåsen
+Sweden, Vemdalen
+Switzerland, Andermatt
+Switzerland, Engelberg / Titlis
+Switzerland, Melchsee-Frutt
+Switzerland, Sörenberg
+Switzerland, Stoos
+Switzerland, Braunwald
+Switzerland, Elm
+Switzerland, Flumserberg
+Switzerland, Pizol / Bad Ragaz
+Switzerland, Wildhaus
+Switzerland, Adelboden
+Switzerland, Axalp
+Switzerland, Beatenberg
+Switzerland, Grindelwald
+Switzerland, Gstaad
+Switzerland, Kandersteg
+Switzerland, Lenk
+Switzerland, Meiringen
+Switzerland, Mürren
+Switzerland, Prés-d'Orvin
+Switzerland, Tramelan
+Switzerland, Wengen
+Switzerland, Zweisimmen
+Switzerland, La Berra
+Switzerland, Charmey
+Switzerland, Jaun
+Switzerland, Moléson
+Switzerland, Mont-Gibloux
+Switzerland, Les Paccots
+Switzerland, Rathvel
+Switzerland, Schwarzsee
+Switzerland, Arosa
+Switzerland, Bergün
+Switzerland, Brigels
+Switzerland, Davos
+Switzerland, Disentis
+Switzerland, Flims
+Switzerland, Klosters
+Switzerland, Laax
+Switzerland, Lenzerheide
+Switzerland, Obersaxen
+Switzerland, St. Moritz
+Switzerland, Samnaun
+Switzerland, San Bernardino
+Switzerland, Savognin
+Switzerland, Scuol
+Switzerland, Sedrun
+Switzerland, Sils
+Switzerland, Vals
+Switzerland, Les Breuleux
+Switzerland, Les Genevez
+Switzerland, Bugnenets-Savagnières
+Switzerland, Crêt-du-Puy
+Switzerland, Airolo
+Switzerland, Bosco/Gurin
+Switzerland, Carì
+Switzerland, Anzère
+Switzerland, Arolla
+Switzerland, Belalp
+Switzerland, Bettmeralp
+Switzerland, Blatten bei Naters
+Switzerland, Bruson
+Switzerland, Champéry
+Switzerland, Champex
+Switzerland, Chandolin
+Switzerland, Crans-Montana
+Switzerland, Evolène
+Switzerland, Fiesch
+Switzerland, La Fouly
+Switzerland, Grächen
+Switzerland, Grimentz
+Switzerland, Leukerbad
+Switzerland, Liddes-Vichères
+Switzerland, Lötschental
+Switzerland, Morgins
+Switzerland, Nendaz
+Switzerland, Ovronnaz
+Switzerland, Riederalp
+Switzerland, Saas Fee
+Switzerland, Saas Grund
+Switzerland, Saint-Luc
+Switzerland, Les Marécottes
+Switzerland, Super Saint-Bernard
+Switzerland, La Tzoumaz
+Switzerland, Verbier
+Switzerland, Vercorin
+Switzerland, Visperterminen
+Switzerland, Zermatt / Klein Matterhorn
+Switzerland, Zinal
+Switzerland, Château-d'Oex
+Switzerland, Les Diablerets
+Switzerland, La Dôle
+Switzerland, La Lécherette
+Switzerland, Leysin
+Switzerland, Les Mosses
+Switzerland, Les Pléïades
+Switzerland, Les Rochers de Naye
+Switzerland, Saint-Cergue
+Switzerland, Sainte-Croix
+Switzerland, Vallée de Joux
+Switzerland, Villars-sur-Ollon
+Ukraine, Podobovets and Pilipets
+Ukraine, Plai
+Ukraine, Bukovel
+Ukraine, Drahobrat
+Ukraine, Oriavchyk
+Ukraine, Slavske
+Ukraine, Tisovets 
+Ukraine, Vysokyy Verh
+Ukraine, Krasiya
+Ukraine, Trostyan
+Ukraine, Dragobrat
+Ukraine, Mygovo
+United Kingdom, Harwood Common - Alston
+United Kingdom, Yad Moss - Alston
+United Kingdom, Raise
+United Kingdom, Swinhope @ Weardale
+United Kingdom, Cairngorm (Aviemore)
+United Kingdom, Glencoe Ski Centre
+United Kingdom, Glenshee Ski Centre
+United Kingdom, The Lecht
+United Kingdom, Nevis Range
+United Kingdom, Lowther Hills
+United Kingdom, Pentland Hills
