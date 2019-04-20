@@ -643,7 +643,6 @@ Ukraine, Oriavchyk
 Ukraine, Slavske
 Ukraine, Tisovets 
 Ukraine, Vysokyy Verh
-Ukraine, Krasiya
 Ukraine, Trostyan
 Ukraine, Dragobrat
 Ukraine, Mygovo
