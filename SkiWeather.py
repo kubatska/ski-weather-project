@@ -66,7 +66,7 @@ class SkiWeather:
 
 
     def date(self):
-        """(SkiWeather) -> list 
+        """(SkiWeather) -> list(string, ...) 
         Return local forecast date"""
         weather = self.get_weather()
         if weather is None:
@@ -75,70 +75,70 @@ class SkiWeather:
 
 
     def bottom_min(self):
-        """(SkiWeather) -> list"""
+        """(SkiWeather) -> list(int, ...)"""
         weather = self.get_weather()
         if weather is None:
             return None
         res = []
         for wea in weather:
             wea_ = wea["bottom"][0]
-            res.append(wea_['maxtempC'])
+            res.append(int(wea_['maxtempC']))
         return res
         
     def bottom_max(self):
-        """(SkiWeather) -> list"""
+        """(SkiWeather) -> list(int, ...)"""
         weather = self.get_weather()
         if weather is None:
             return None
         res = []
         for wea in weather:
             wea_ = wea["bottom"][0]
-            res.append(wea_['mintempC'])
+            res.append(int(wea_['mintempC']))
         return res
 
     def mid_min(self):
-        """(SkiWeather) -> list"""
+        """(SkiWeather) -> list(int, ...)"""
         weather = self.get_weather()
         if weather is None:
             return None
         res = []
         for wea in weather:
             wea_ = wea["mid"][0]
-            res.append(wea_['maxtempC'])
+            res.append(int(wea_['maxtempC']))
         return res
         
     def mid_max(self):
-        """(SkiWeather) -> list"""
+        """(SkiWeather) -> list(int, ...)"""
         weather = self.get_weather()
         if weather is None:
             return None
         res = []
         for wea in weather:
             wea_ = wea["mid"][0]
-            res.append(wea_['mintempC'])
+            res.append(int(wea_['mintempC']))
         return res
 
 
     def top_min(self):
-        """(SkiWeather) -> list"""
+        """(SkiWeather) -> list(int, ...)"""
         weather = self.get_weather()
         if weather is None:
             return None
         res = []
         for wea in weather:
             wea_ = wea["top"][0]
-            res.append(wea_['maxtempC'])
+            res.append(int(wea_['maxtempC']))
         return res
         
     def top_max(self):
-        """(SkiWeather) -> list"""
+        """(SkiWeather) -> list(int, ...)"""
         weather = self.get_weather()
         if weather is None:
             return None
         res = []
         for wea in weather:
             wea_ = wea["top"][0]
-            res.append(wea_['mintempC'])
+            res.append(int(wea_['mintempC']))
         return res
     
     def __str__(self):
@@ -167,8 +167,8 @@ if __name__ == "__main__":
     print("top_min =", resorts_list[0].top_min())
     print("\nmid_max =", resorts_list[0].mid_max())
     print("mid_min =", resorts_list[0].mid_min())
-    print("\nbottom_max", resorts_list[0].bottom_max())
-    print("bottom_min", resorts_list[0].bottom_min())
+    print("\nbottom_max =", resorts_list[0].bottom_max())
+    print("bottom_min =", resorts_list[0].bottom_min())
 
     print("\nOk!")
 
