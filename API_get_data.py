@@ -7,7 +7,7 @@ def get_resorts_data(country):
     (None) -> list
     Read a file and return a list of resorts.
     """
-    with open("data_resorts_in_Europe.txt", encoding='utf-8', errors='ignore') as f:
+    with open("data_resorts.txt", encoding='utf-8', errors='ignore') as f:
         try:
             lst_with_resorts = []
             for line in f:
@@ -39,7 +39,7 @@ def form_url(key, q, form, date):
     format - JSON, HML;
     date - in the yyyy-MM-dd format, if this parameter absent it is considerd today;
     """
-    return """https://api.worldweatheronline.com/premium/v1/ski.ashx?key={0}&q={1}&format={2}&date={3}&includelocation=yes&tp=6&showlocaltime=yes""".format(key, q, form, date)
+    return """http://api.worldweatheronline.com/premium/v1/ski.ashx?key={0}&q={1}&format={2}&date={3}&includelocation=yes&tp=6&showlocaltime=yes""".format(key, q, form, date)
 
 
 def get_data(URL):
@@ -76,20 +76,23 @@ def write_data(another_key, lst):
 if __name__ == "__main__":
     country = str(input("Please, enter a country: "))
     # date = str(input("Please, input a data in format yyyy-MM-dd: "))
-    date = "2019-03-10"
+    # date = "2019-03-10"
+    num_of_days = "5"
     key = "9fe51fdc3026412b9b3154555192402"
     form = "json"
     rsrts = get_resorts_data(country)
     lst = []
     for rsrt in rsrts:
-        URL = form_url(key, rsrt, form, date)
+        # URL = form_url(key, rsrt, form, date)
+        URL = form_url(key, rsrt, form, num_of_days)
+        print(URL)
         dict_key = rsrt
         value = get_data(URL)
         a = dict_data(dict_key, value)
         lst.append(a)
     another_key = "resorts"
     write_data(another_key, lst)
-      
+    print("Ok")
 
 
 
