@@ -73,26 +73,26 @@ def write_data(another_key, lst):
         json.dump(dict_a, f, ensure_ascii=False)
 
 
-if __name__ == "__main__":
-    country = str(input("Please, enter a country: "))
-    # date = str(input("Please, input a data in format yyyy-MM-dd: "))
-    # date = "2019-03-10"
-    num_of_days = "5"
-    key = "9fe51fdc3026412b9b3154555192402"
-    form = "json"
-    rsrts = get_resorts_data(country)
-    lst = []
-    for rsrt in rsrts:
-        # URL = form_url(key, rsrt, form, date)
-        URL = form_url(key, rsrt, form, num_of_days)
-        print(URL)
-        dict_key = rsrt
-        value = get_data(URL)
-        a = dict_data(dict_key, value)
-        lst.append(a)
-    another_key = "resorts"
-    write_data(another_key, lst)
-    print("Ok")
+# if __name__ == "__main__":
+#     country = str(input("Please, enter a country: "))
+#     # date = str(input("Please, input a data in format yyyy-MM-dd: "))
+#     # date = "2019-03-10"
+#     num_of_days = "5"
+#     key = "f83b6a4b839e4660b8691519190605"
+#     form = "json"
+#     rsrts = get_resorts_data(country)
+#     lst = []
+#     for rsrt in rsrts:
+#         # URL = form_url(key, rsrt, form, date)
+#         URL = form_url(key, rsrt, form, num_of_days)
+#         print(URL)
+#         dict_key = rsrt
+#         value = get_data(URL)
+#         a = dict_data(dict_key, value)
+#         lst.append(a)
+#     another_key = "resorts"
+#     write_data(another_key, lst)
+#     print("Ok")
 
 
 
