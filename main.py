@@ -66,7 +66,7 @@ def check_date(date):
     try:
         d_max = str(datetime.today() + timedelta(days=5))
         d_max = d_max[:10]
-        date_list = date.strip().split("-")
+        date_list = date.strip().split(".")
         d_max = d_max.strip().split("-")
         for i in range(3):
             if int(date_list[i]) > int(d_max[i]):
