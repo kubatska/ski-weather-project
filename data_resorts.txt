@@ -375,7 +375,8 @@ Macedonia, Popova Šapka
 Montenegro, Durmitor
 Montenegro, Kolašin
 Montenegro, Vucje
-Norway, Bjorli
+Norway, Trysil
+Norway, Sognefjell Mountain
 Norway, Filefjell
 Norway, Geilo
 Norway, Hafjell
@@ -383,23 +384,14 @@ Norway, Hemsedal
 Norway, Hovden
 Norway, Kongsberg
 Norway, Kvitfjell
-Norway, Målselv
-Norway, Meråker
 Norway, Narvik
 Norway, Norefjell
 Norway, Myrkdalen
 Norway, Oppdal
 Norway, Sauda 
-Norway, Sirdal
-Norway, Sjusjøen
 Norway, Stryn Sommerski
-Norway, Tromsø
-Norway, Trondheim
 Norway, Trondheim
 Norway, Trysil
-Norway, Tryvann
-Poland, Białka Tatrzańska
-Poland, Bukowina Tatrzańska
 Poland, Karpacz
 Poland, Krynica Zdrój
 Poland, Rabka-Zdrój
@@ -657,3 +649,7 @@ United Kingdom, The Lecht
 United Kingdom, Nevis Range
 United Kingdom, Lowther Hills
 United Kingdom, Pentland Hills
+Canada, Beaver Valley Ski Club
+Canada, Blue Mountain
+Canada, Boler Mountain
+USA, Killington Resort Vermont
